@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://wirelessvillage.github.io/angels/</loc>
+        <lastmod>2014-02-18T20:37:30+00:00</lastmod>
+    </url>
+    <url>
         <loc>http://wirelessvillage.github.io/blog/archives/</loc>
         <lastmod>2014-02-18T18:38:59+00:00</lastmod>
     </url>
@@ -43,6 +47,10 @@
     <url>
         <loc>http://wirelessvillage.github.io/robots.txt</loc>
         <lastmod>2014-02-18T18:39:00+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://wirelessvillage.github.io/speakers/</loc>
+        <lastmod>2014-02-18T20:36:19+00:00</lastmod>
     </url>
     <url>
         <loc>http://wirelessvillage.github.io/crew/</loc>
